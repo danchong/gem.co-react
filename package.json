@@ -1,0 +1,21 @@
+{
+  "name": "Gem.co - React.js",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Building the front-end stack for Gem.co using React.js",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+  },
+  "author": "danchong",
+  "engines" : {
+    "node" : "0.12.x"
+  }
+}
